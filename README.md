@@ -1,2 +1,7 @@
-# Sibongile-Tembo-2410291
-Programmer 
+<section>
+  <h2>Sibongile Tembo</h2>
+  <p>ID: 123456</p>
+  <p>Role: Frontend Developer</p>
+  <p>Short Bio: Passionate about building user-friendly web apps and learning new technologies.</p>
+  <a href="https://github.com/sibongile123">GitHub Profile</a>
+</section>
